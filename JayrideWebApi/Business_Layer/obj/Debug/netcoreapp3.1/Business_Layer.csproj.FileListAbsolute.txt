@@ -1,0 +1,13 @@
+C:\Jayride\JayrideWebApi\Business_Layer\bin\Debug\netcoreapp3.1\Business_Layer.deps.json
+C:\Jayride\JayrideWebApi\Business_Layer\bin\Debug\netcoreapp3.1\Business_Layer.dll
+C:\Jayride\JayrideWebApi\Business_Layer\bin\Debug\netcoreapp3.1\Business_Layer.pdb
+C:\Jayride\JayrideWebApi\Business_Layer\bin\Debug\netcoreapp3.1\DataAccess_Layer.dll
+C:\Jayride\JayrideWebApi\Business_Layer\bin\Debug\netcoreapp3.1\DataAccess_Layer.pdb
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.AssemblyReference.cache
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.AssemblyInfoInputs.cache
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.AssemblyInfo.cs
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.CopyComplete
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.dll
+C:\Jayride\JayrideWebApi\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.pdb

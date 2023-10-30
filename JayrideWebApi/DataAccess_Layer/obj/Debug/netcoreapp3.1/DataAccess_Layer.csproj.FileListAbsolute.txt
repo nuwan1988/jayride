@@ -1,0 +1,10 @@
+C:\Jayride\JayrideWebApi\DataAccess_Layer\bin\Debug\netcoreapp3.1\DataAccess_Layer.deps.json
+C:\Jayride\JayrideWebApi\DataAccess_Layer\bin\Debug\netcoreapp3.1\DataAccess_Layer.dll
+C:\Jayride\JayrideWebApi\DataAccess_Layer\bin\Debug\netcoreapp3.1\DataAccess_Layer.pdb
+C:\Jayride\JayrideWebApi\DataAccess_Layer\obj\Debug\netcoreapp3.1\DataAccess_Layer.csproj.AssemblyReference.cache
+C:\Jayride\JayrideWebApi\DataAccess_Layer\obj\Debug\netcoreapp3.1\DataAccess_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jayride\JayrideWebApi\DataAccess_Layer\obj\Debug\netcoreapp3.1\DataAccess_Layer.AssemblyInfoInputs.cache
+C:\Jayride\JayrideWebApi\DataAccess_Layer\obj\Debug\netcoreapp3.1\DataAccess_Layer.AssemblyInfo.cs
+C:\Jayride\JayrideWebApi\DataAccess_Layer\obj\Debug\netcoreapp3.1\DataAccess_Layer.csproj.CoreCompileInputs.cache
+C:\Jayride\JayrideWebApi\DataAccess_Layer\obj\Debug\netcoreapp3.1\DataAccess_Layer.dll
+C:\Jayride\JayrideWebApi\DataAccess_Layer\obj\Debug\netcoreapp3.1\DataAccess_Layer.pdb
